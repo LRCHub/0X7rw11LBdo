@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "Nightcore - Kings & Queens (Lyrics)",
+  "base_artist": "NightcoreChase",
+  "createdAt": "2026-03-23T11:45:21.146486Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Hero (Nightcore)",
+      "artist": "Syrex",
+      "has_synced": false,
+      "path": "select/01_Hero_(Nightcore)_Syrex.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Nightcore - Safe",
+      "artist": "Nightcore",
+      "has_synced": true,
+      "path": "select/02_Nightcore_-_Safe_Nightcore.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Crystals (Djemba Djemba Nightcore Remix)",
+      "artist": "AWE",
+      "has_synced": false,
+      "path": "select/03_Crystals_(Djemba_Djemba_Nightcore_Remix)_AWE.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Rockefeller Street (New Nightcore) [#Rockefellerstreet Remix]",
+      "artist": "Getter Jaani",
+      "has_synced": true,
+      "path": "select/04_Rockefeller_Street_(New_Nightcore)_[_Rockefellerstreet_Remix]_Getter_Jaani.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Nightcore - Angel With A Shotgun",
+      "artist": "Nightcore",
+      "has_synced": true,
+      "path": "select/05_Nightcore_-_Angel_With_A_Shotgun_Nightcore.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Dollhouse (Nightcore)",
+      "artist": "YTBS Nightcore",
+      "has_synced": false,
+      "path": "select/06_Dollhouse_(Nightcore)_YTBS_Nightcore.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "How Do You Do - Nightcore Edit",
+      "artist": "Boom feat. Nightcore",
+      "has_synced": false,
+      "path": "select/07_How_Do_You_Do_-_Nightcore_Edit_Boom_feat._Nightcore.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Nightcore - How You Love Me",
+      "artist": "Nightcore",
+      "has_synced": false,
+      "path": "select/08_Nightcore_-_How_You_Love_Me_Nightcore.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Nightcore - Let The Flames Begin",
+      "artist": "Nightcore",
+      "has_synced": false,
+      "path": "select/09_Nightcore_-_Let_The_Flames_Begin_Nightcore.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "I Fall In Love Too Easily (Sped up / Nightcore Version)",
+      "artist": "Sandra Iris",
+      "has_synced": true,
+      "path": "select/10_I_Fall_In_Love_Too_Easily_(Sped_up___Nightcore_Version)_Sandra_Iris.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "I Fall In Love Too Easily (Sped up \u0000 Nightcore Version)",
+      "artist": "Sandra Iris",
+      "has_synced": true,
+      "path": "select/11_I_Fall_In_Love_Too_Easily_(Sped_up_\u0000_Nightcore_Version)_Sandra_Iris.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Everytime We Touch - Nightcore Edit",
+      "artist": "Cascada",
+      "has_synced": true,
+      "path": "select/12_Everytime_We_Touch_-_Nightcore_Edit_Cascada.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "No Friends - Nightcore",
+      "artist": "Cadmium",
+      "has_synced": true,
+      "path": "select/13_No_Friends_-_Nightcore_Cadmium.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Miss You (Sped Up Version) [sped up nightcore Remix]",
+      "artist": "Oliver Tree & sped up nightcore",
+      "has_synced": true,
+      "path": "select/14_Miss_You_(Sped_Up_Version)_[sped_up_nightcore_Remix]_Oliver_Tree_&_sped_up_nightcore.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Everywhere I Go (Nightcore Version)",
+      "artist": "Onlap",
+      "has_synced": false,
+      "path": "select/15_Everywhere_I_Go_(Nightcore_Version)_Onlap.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Fight Like the Devil - Nightcore Version",
+      "artist": "Onlap",
+      "has_synced": true,
+      "path": "select/16_Fight_Like_the_Devil_-_Nightcore_Version_Onlap.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Forever (Nightcore Version)",
+      "artist": "Onlap",
+      "has_synced": false,
+      "path": "select/17_Forever_(Nightcore_Version)_Onlap.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Miracle - Nightcore Version",
+      "artist": "Onlap",
+      "has_synced": false,
+      "path": "select/18_Miracle_-_Nightcore_Version_Onlap.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Mondays - Nightcore Version",
+      "artist": "Onlap feat. Oscar Pegorraro",
+      "has_synced": false,
+      "path": "select/19_Mondays_-_Nightcore_Version_Onlap_feat._Oscar_Pegorraro.txt"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Mondays (Nightcore Version)",
+      "artist": "Onlap; Oscar Pegorraro",
+      "has_synced": false,
+      "path": "select/20_Mondays_(Nightcore_Version)_Onlap;_Oscar_Pegorraro.txt"
+    }
+  ]
+}
